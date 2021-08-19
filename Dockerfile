@@ -1,0 +1,1 @@
+FROM mpizarro/pedidosrapiadmin:latest

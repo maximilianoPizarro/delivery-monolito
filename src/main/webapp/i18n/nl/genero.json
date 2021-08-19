@@ -1,0 +1,10 @@
+{
+  "pedidosrapiadminApp": {
+    "Genero": {
+      "null": "",
+      "MASCULINO": "MASCULINO",
+      "FEMENINO": "FEMENINO",
+      "OTRO": "OTRO"
+    }
+  }
+}
