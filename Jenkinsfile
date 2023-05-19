@@ -27,7 +27,7 @@ pipeline {
             }
         }        
       steps {
-        sh "mvn clean install -DskipTests"
+        sh "mvn -Pprod clean verify"
       }
     }      
         
